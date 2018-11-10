@@ -18,7 +18,6 @@
 		7AADCEAC2135C427002AA602 /* DataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AADCEAB2135C427002AA602 /* DataProvider.swift */; };
 		7AE6946220E2700100E416C1 /* CountryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE6946120E2700100E416C1 /* CountryDetailViewController.swift */; };
 		7AE6946420E27B8F00E416C1 /* CountryDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE6946320E27B8F00E416C1 /* CountryDetailTableViewCell.swift */; };
-		7AEEA09C2135BB2400D2EDFE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AEEA09B2135BB2400D2EDFE /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +34,6 @@
 		7AADCEAB2135C427002AA602 /* DataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataProvider.swift; sourceTree = "<group>"; };
 		7AE6946120E2700100E416C1 /* CountryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetailViewController.swift; sourceTree = "<group>"; };
 		7AE6946320E27B8F00E416C1 /* CountryDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetailTableViewCell.swift; sourceTree = "<group>"; };
-		7AEEA09B2135BB2400D2EDFE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +50,6 @@
 		7A06064A20E156DE005090AD = {
 			isa = PBXGroup;
 			children = (
-				7AEEA09B2135BB2400D2EDFE /* Default-568h@2x.png */,
 				7A06065520E156DE005090AD /* CountryHelp */,
 				7A06065420E156DE005090AD /* Products */,
 			);
@@ -169,7 +166,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A06066120E156E1005090AD /* LaunchScreen.storyboard in Resources */,
-				7AEEA09C2135BB2400D2EDFE /* Default-568h@2x.png in Resources */,
 				7A06065E20E156E1005090AD /* Assets.xcassets in Resources */,
 				7A06065C20E156DE005090AD /* Main.storyboard in Resources */,
 			);

@@ -8,6 +8,6 @@
 
 import Foundation
 
-struct Geoname: Decodable {
+struct Geoname: Codable {
     let geonames: [Country]?
 }

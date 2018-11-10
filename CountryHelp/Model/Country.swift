@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Country: Decodable{
+struct Country: Codable{
     let continent: String?
     let capital: String?
     let languages: String?
